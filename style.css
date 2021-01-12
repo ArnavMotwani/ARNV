@@ -33,11 +33,19 @@ a:hover {
 	padding-bottom: 0;
 	margin-bottom: 0;
 }
-.me {
+.img {
 	width: 200px;
 	height: 200px;
 	border-radius: 40px;
 	margin-bottom: 12px;
+}
+.section-horizontal {
+  display: flex;
+}
+
+.description {
+  margin-left: 32px;
+  margin-top: 40px;
 }
 h1 {
 	font-weight: 600;
